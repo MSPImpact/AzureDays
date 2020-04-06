@@ -1,4 +1,4 @@
-# AzureDays
+# Azure Days by Microsoft Student Partners
 This is the first week of AzureDays  
 This have series of events for 6 Days: <br />
 Apr-08 ▶ D1: Keynote & Empowering session | (10:00 PM to 12:00 Midnight IST)<br />
