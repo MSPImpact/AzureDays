@@ -3,8 +3,11 @@
 ### We will be showing how you can clean the data and create a simple ML model using Azure notebooks and you will aslo explore the power of Azure ML Studio! 😎   
 The best part I love about Azure ML studio is, I can create a Machine Learning model using a simple flow. And not only this, It's so easy to use the trained ML model as a web service. 😍
   
-One question for everyone would be: Have you ever wanted to predict the future? 🤔    
+One question for everyone would be: Have you ever wanted to predict the future? 🤔
+<p align="center">
 ![Want to predict the future?](https://github.com/MSPImpact/AzureDays/blob/master/D4:%20%20Intro%20to%20Data%20Science%20and%20Machine%20Learning/Pictures%20for%20readme/Picture1.png)
+</p>  
+
 I would say, **YESSSS!!** (Obviously Yes!!!)  
 Well, if correlating, predictions can be related to Machine Learning. As machine learns to predict based on the previous data.  
   
@@ -27,7 +30,8 @@ Some ML in action can be seen at:
 3. And so on.  
   
 ## Microsoft and Machine Learning is related as:
+<p align="center">
 ![Modified from http://pulsweb.fr/predict-wine-quality-azureml
 ](https://github.com/MSPImpact/AzureDays/blob/master/D4:%20%20Intro%20to%20Data%20Science%20and%20Machine%20Learning/Pictures%20for%20readme/Picture2.png)  
-
+</p>
 
