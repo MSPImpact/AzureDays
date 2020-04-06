@@ -4,8 +4,9 @@
 The best part I love about Azure ML studio is, I can create a Machine Learning model using a simple flow. And not only this, It's so easy to use the trained ML model as a web service. 😍
   
 One question for everyone would be: Have you ever wanted to predict the future? 🤔
+
 <p align="center">
-![Want to predict the future?](https://github.com/MSPImpact/AzureDays/blob/master/D4:%20%20Intro%20to%20Data%20Science%20and%20Machine%20Learning/Pictures%20for%20readme/Picture1.png)
+<img src="https://github.com/MSPImpact/AzureDays/blob/master/D4:%20%20Intro%20to%20Data%20Science%20and%20Machine%20Learning/Pictures%20for%20readme/Picture1.png">
 </p>  
 
 I would say, **YESSSS!!** (Obviously Yes!!!)  
@@ -31,7 +32,6 @@ Some ML in action can be seen at:
   
 ## Microsoft and Machine Learning is related as:
 <p align="center">
-![Modified from http://pulsweb.fr/predict-wine-quality-azureml
-](https://github.com/MSPImpact/AzureDays/blob/master/D4:%20%20Intro%20to%20Data%20Science%20and%20Machine%20Learning/Pictures%20for%20readme/Picture2.png)  
+<img src="https://github.com/MSPImpact/AzureDays/blob/master/D4:%20%20Intro%20to%20Data%20Science%20and%20Machine%20Learning/Pictures%20for%20readme/Picture2.png">  
 </p>
-
+This is how Machine Learning grow with Microsoft.
