@@ -41,7 +41,7 @@ Microsoft Azure is a flexible, scalable, and full-featured cloud platform. Pytho
  <li>*Azure Kubernetes services</li>
  <li>* Work on IOT</li>
 </ul>
-__You name it and you can do it in Azure__ It provides all the three services i.e __IAAS , SAAS , PAAS __
+__You name it and you can do it in Azure__ It provides all the three services i.e __IAAS, SAAS, PAAS__
 
 ## Redeeming the Azure Voucher codes:
 __steps to followed__
