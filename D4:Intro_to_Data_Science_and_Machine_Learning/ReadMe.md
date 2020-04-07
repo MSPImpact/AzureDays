@@ -6,7 +6,7 @@ The best part I love about Azure ML studio is, I can create a Machine Learning m
 One question for everyone would be: Have you ever wanted to predict the future? 🤔
 
 <p align="center">
-<img src="https://github.com/MSPImpact/AzureDays/blob/master/D4:%20%20Intro%20to%20Data%20Science%20and%20Machine%20Learning/Pictures%20for%20readme/Picture1.png">
+<img src="https://github.com/MSPImpact/AzureDays/blob/master/D4:Intro_to_Data_Science_and_Machine_Learning/Pictures_for_readme/Picture1.png">
 </p>  
 
 I would say, **YESSSS!!** (Obviously Yes!!!)  
@@ -32,6 +32,6 @@ Some ML in action can be seen at:
   
 ## Microsoft and Machine Learning is related as:
 <p align="center">
-<img src="https://github.com/MSPImpact/AzureDays/blob/master/D4:%20%20Intro%20to%20Data%20Science%20and%20Machine%20Learning/Pictures%20for%20readme/Picture2.png">  
+<img src="https://github.com/MSPImpact/AzureDays/blob/master/D4:Intro_to_Data_Science_and_Machine_Learning/Pictures_for_readme/Picture2.png">  
 </p>
 This is how Machine Learning grow with Microsoft.
