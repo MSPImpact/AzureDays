@@ -19,6 +19,6 @@ __Useful _resouces for the session_ 👨‍🏫 :
   <li>▶https://docs.microsoft.com/learn/paths/deploy-a-website-with-azure-app-service/</li>
   <li>▶https://github.com/arkodyuti/hackathon-hackbook</li>
  </ul> 
-So dont forget to mark your calender for the session 
+So dont forget to mark your calender for the session 🗓
 
 ### _Azure Days ✨ _
