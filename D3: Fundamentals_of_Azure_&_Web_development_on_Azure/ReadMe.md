@@ -13,11 +13,12 @@ We will be teaching you the basics of the  __cloud computing , Microsoft Azure a
 Also it will help you in getting your own __personal Website__ , use it for your Project or may be your personal branding.
 
 __Useful _resouces for the session_ 👨‍🏫 :__
-
-▶ https://docs.microsoft.com/en-gb/learn/paths/azure-fundamentals/
-▶https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-html
+<ul>
+  <li>▶ https://docs.microsoft.com/en-gb/learn/paths/azure-fundamentals/</li>
+  <li>▶https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-html</li>
 ▶https://docs.microsoft.com/learn/paths/deploy-a-website-with-azure-app-service/
 ▶https://github.com/arkodyuti/hackathon-hackbook
+ </ul> 
 ### SO dont forget to mark your calender for the session 
 
 ### _Azure Days ✨ _
