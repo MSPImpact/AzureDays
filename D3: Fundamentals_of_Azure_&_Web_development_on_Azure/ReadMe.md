@@ -14,10 +14,10 @@ Also it will help you in getting your own __personal Website__ , use it for your
 
 __Useful _resouces for the session_ 👨‍🏫 :__
 <ul>
-  ▶ https://docs.microsoft.com/en-gb/learn/paths/azure-fundamentals/
-  ▶https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-html
-▶https://docs.microsoft.com/learn/paths/deploy-a-website-with-azure-app-service/
-▶https://github.com/arkodyuti/hackathon-hackbook
+  <li>  ▶ https://docs.microsoft.com/en-gb/learn/paths/azure-fundamentals/ </li>
+  <li>  ▶https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-html</li>
+  <li>▶https://docs.microsoft.com/learn/paths/deploy-a-website-with-azure-app-service/</li>
+  <li>▶https://github.com/arkodyuti/hackathon-hackbook</li>
  </ul> 
 ### SO dont forget to mark your calender for the session 
 
