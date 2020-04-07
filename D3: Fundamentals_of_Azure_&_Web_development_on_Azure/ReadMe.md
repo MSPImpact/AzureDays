@@ -7,15 +7,14 @@
 <img src="cloud.jfif">
 </p>  
 ### What is cloud computing??
-<br>
+
  Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. 
  
  <p align="centre">
-  <img src="bulb.gif">
+  <img src="b">
             </p>
    When you turn on a bulb you don't want to bother about the things happening in the backend of it i.e the passing of currents, wires in the circuit and other things . __Similarly storing data, streaming video, or even hosting a website all require managing hardware and software.Luckily we have cloud to manage all this for us__
    
- ### Power of cloud??
  
  __Services of cloud:__
  <ol>
