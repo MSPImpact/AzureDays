@@ -7,22 +7,22 @@
 <img src="cloud.jfif">
 </p>  
 <br>
-### What is cloud computing??
+__What is cloud computing??__
 <br>
  Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. 
  
  <p align="centre">
-  <img src="b">
+  <img src="BlindAstonishingAfricanelephant-size_restricted.gif">
             </p>
    When you turn on a bulb you don't want to bother about the things happening in the backend of it i.e the passing of currents, wires in the circuit and other things . __Similarly storing data, streaming video, or even hosting a website all require managing hardware and software.Luckily we have cloud to manage all this for us__
    
  
  __Services of cloud:__
  <ol>
-1.Computer Power: Servers, VMs
-2.Storage:databases
-3.Networking: secure connections
-4.Analytics: such as visualizing telemetry and performance data
+ <li>1.Computer Power: Servers, VMs</li>
+ <li>2.Storage:databases</li>
+ <li>3.Networking: secure connections</li>
+ <li>4.Analytics: such as visualizing telemetry and performance data</li>
 </ol>
  
 We will be teaching you the basics of the  __cloud computing , Microsoft Azure and hosting a Web application on Microsoft Azure.__
