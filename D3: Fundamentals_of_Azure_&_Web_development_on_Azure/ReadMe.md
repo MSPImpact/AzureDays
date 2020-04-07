@@ -29,6 +29,8 @@ We will be teaching you the basics of the  __cloud computing , Microsoft Azure a
 
 Also it will help you in getting your own __personal Website__ , use it for your Project or may be your personal branding.
 
+
+
 __Useful resouces for the session__ 👨‍🏫 :
 <ul>
   <li>  ▶ https://docs.microsoft.com/en-gb/learn/paths/azure-fundamentals/ </li>
