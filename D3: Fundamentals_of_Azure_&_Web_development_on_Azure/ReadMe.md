@@ -2,12 +2,12 @@
 
 ## Are you a Cloud enthusiast ✨ or a Web enthusiast ?? Want to know the fundamentals of cloud ??
 ## If Yes , then do join our session on 10th of April at 22:00 (IST)|| 16:30 (GMT).
-
+__What is cloud computing??__
 <p align="center">
 <img src="cloud.jfif">
 </p>  
 <br>
-__What is cloud computing??__
+
 <br>
  Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. 
  
