@@ -10,6 +10,7 @@ Starting with the Day 1, we have:
 - **Aparna Mittal**, Community Program Manager, Microsoft Student Partners India.
 - **Paras Pundir** (The Community Guy), Program Manager, Microsoft
 - **Arkodyuti Saha**, Developer Relations (Cloud + AI) Program Manager, Microsoft  
+<br />
 Apr-09 ▶ D2: Intro to Git & Github | (10:00 PM to 12:00 Midnight IST) <br />
 Apr-10 ▶ D3: Fundamentals of Azure & Web development on Azure | (10:00 PM to 12:00 Midnight IST)<br />
 Apr-11 ▶ D4: Intro to Data Science & Machine Learning using MS Azure | (10:00 PM to 12:00 Midnight IST)<br />
