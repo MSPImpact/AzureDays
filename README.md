@@ -35,4 +35,4 @@ Did I missed that you will receive Certificates daily. 😎 <br />
 A fun kahoot quiz after the session! 😍 <br/> 
 
 Team -
-Himanshu, Tanay, Ravi, Kuanl, Ambika, Dev, Rohan, ... and many more amazing people! 🖤
+Himanshu, Tanay, Ravi, Kunal, Ambika, Dev, Rohan, ... and many more amazing people! 🖤
