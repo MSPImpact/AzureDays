@@ -34,4 +34,14 @@ Some ML in action can be seen at:
 <p align="center">
 <img src="https://github.com/MSPImpact/AzureDays/blob/master/D4:Intro_to_Data_Science_and_Machine_Learning/Pictures_for_readme/Picture2.png">  
 </p>
-This is how Machine Learning grow with Microsoft.
+This is how Machine Learning grow with Microsoft. <br/>
+
+Talking about challenges and advancement in the ML & AI, one can look at: 
+<p align="center">
+<img src="https://github.com/MSPImpact/AzureDays/blob/master/D4:Intro_to_Data_Science_and_Machine_Learning/Pictures_for_readme/Picture3.png"> 
+</p>
+And if someone look for the process behind Machine Learning, this is the process which can be easily seen:
+<p align="center">
+<img src="https://github.com/MSPImpact/AzureDays/blob/master/D4:Intro_to_Data_Science_and_Machine_Learning/Pictures_for_readme/Picture4.png"> 
+From "Introduction to Microsoft Azure" by David Chappell
+</p>
