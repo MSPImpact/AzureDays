@@ -28,7 +28,7 @@ STEPS TO ACTIVATE YOUR ACCESS:
 2. In the same window, open bit.ly/progateaccessforazuredays
 3. Click the 'Join' button. From a laptop or desktop, start learning the language of your choice.
 
-Also, I encourage you to complete Python course before April 13, 2020 (Last day for Azure Days) and this will automatically enter you to the lucky draw, and top 7 people  will get 70 lessons of all 15 courses on Progate for one month! 😄  
+Also, I encourage you to complete Python course before April 13, 2020 (Last day for Azure Days) and this will automatically enter you to the lucky draw, and top 7 people  will get 70 lessons of all 15 courses on Progate for one month! 😄
 <br />  
 Get ready for the fun hands-on session by the amazing speakers! I bet you are gonna enjoy. ✔ <br />
 Did I missed that you will receive Certificates daily. 😎 <br />
