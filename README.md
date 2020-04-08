@@ -16,7 +16,7 @@ Apr-09 ▶ D2: Intro to Git & Github | (10:00 PM to 12:00 Midnight IST) <br />
 - How open source community is scaling up & empowering every Individual. ✌ 
 <br />
 Apr-10 ▶ D3: Fundamentals of Azure & Web development on Azure | (10:00 PM to 12:00 Midnight IST)<br />
-- Are you a Cloud or a Web enthusiast? Want to know the fundamentals of cloud?
+- Are you a Cloud or a Web enthusiast? Want to know the fundamentals of cloud?<br />
 - This is specially for you, covering the fundamentals of cloud, how to get started with Microsoft Azure. We will introduce you to web development, how you can get-started, with the learning resources, and hosting your personal website on Azure! 
 - Isn't it cool?
 <br />
