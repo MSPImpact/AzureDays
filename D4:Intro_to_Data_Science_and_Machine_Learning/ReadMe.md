@@ -27,7 +27,7 @@ Whereas, **Data science is all about gaining the insights from the data, finding
 
 Some ML in action can be seen at:
 1. [How-old.net](How-old.net)
-2. [Akinator] (https://en.akinator.com/)
+2. [Akinator](https://en.akinator.com/)
 3. And so on.  
   
 ## Microsoft and Machine Learning is related as:
@@ -38,10 +38,14 @@ This is how Machine Learning grow with Microsoft. <br/>
 
 Talking about challenges and advancement in the ML & AI, one can look at: 
 <p align="center">
-<img src="https://github.com/MSPImpact/AzureDays/blob/master/D4:Intro_to_Data_Science_and_Machine_Learning/Pictures_for_readme/Picture3.png"> 
+<img src="https://github.com/MSPImpact/AzureDays/blob/master/D4:Intro_to_Data_Science_and_Machine_Learning/Pictures_for_readme/Picture3.jpg"> 
 </p>
 And if someone look for the process behind Machine Learning, this is the process which can be easily seen:
 <p align="center">
 <img src="https://github.com/MSPImpact/AzureDays/blob/master/D4:Intro_to_Data_Science_and_Machine_Learning/Pictures_for_readme/Picture4.png"> 
 From "Introduction to Microsoft Azure" by David Chappell
 </p>
+### Now let's move the Programming part, and how one can code a simple Machine Learning model using Python & Sklearn.
+[Check this amazing Azure Notebook maintained by Ambika](https://github.com/MSPImpact/AzureDays/blob/master/D4:Intro_to_Data_Science_and_Machine_Learning/Azure_notebook/Predict%20Flight%20Delays%20by%20creating%20a%20ML%20model%20in%20Python.ipynb)<br />
+You can open in the new tab for better visuals. <br />
+And once you are done with the coding part. I will move further to show how we can use the power of **Azure Machine Learning Studio** to Perform Data Science, create a simple ML model, and even use the trained ML Model to create a web service. 🙌<br />
