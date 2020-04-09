@@ -64,21 +64,25 @@ __Go to https://azure.microsoft.com/en-in/free/students/__
 Steps:
 
 1> __Go to the Azure Portal__
+<br>
  <p align="center">
 <img src="step1.png">
 </p>  
  
  
 2>__Click on Create Resource__
+<br>
    <p align="center">
 <img src="step2.png">
 </p>  
 
 3>__click on web app__
+<br>
   <p align="center">
 <img src="step33.png">
 </p>  
 4.>__You will direct to this page fill the Requisites__
+<br>
 <p align="center">
 <img src="step4.png">
 </p>  
