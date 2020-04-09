@@ -86,12 +86,21 @@ Steps:
 <p align="center">
 <img src="step4.png">
 </p>  
-5.>__Check all the options and then click on Review and create__
+5.>Check all the options and then click on Review and create
 </br>
 <p align="center">
 <img src="step5.png">
 </p>  
-
+6.> __Check this notification__ 
+</br>
+<p align="center">
+<img src="step6.png">
+</p>  
+7.>__you will directed to this window__
+</br>
+<p align="center">
+<img src="step7.png">
+</p>  
 
 
 
