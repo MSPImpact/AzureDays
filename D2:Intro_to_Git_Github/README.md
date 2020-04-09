@@ -6,7 +6,7 @@ showcase your projects, and improving your contributions to the Open Source comm
 <br />
 
 ## Git is the industry-standard version control system for web developers.<br />
-### Use Git commands to help keep track of changes made to a project:
+#### Use Git commands to help keep track of changes made to a project:
 ----------------------------------------------------------------------------------
 `git init`  - creates a new Git repository
 
@@ -19,8 +19,9 @@ showcase your projects, and improving your contributions to the Open Source comm
 `git commit` - permanently stores file changes from the staging area in the repository
 
 `git log` - shows a list of all previous commits
+
 -----------------------------------------------------------------------------------
-*how to backtrack*
+#### *how to backtrack*
 
 `git checkout HEAD filename` - Discards changes in the working directory.
 
@@ -29,7 +30,7 @@ showcase your projects, and improving your contributions to the Open Source comm
 `git reset commit_SHA` - Resets to a previous commit in your commit history.
 
 -------------------------------------------------------------------------------------
-*git branching*
+#### *git branching*
 
 `git branch` - Lists all a Git project’s branches.
 
