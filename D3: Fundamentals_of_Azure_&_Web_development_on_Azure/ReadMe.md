@@ -69,17 +69,17 @@ Steps:
 </p>  
  
  
-2>__Click on Create Resource __
+2>__Click on Create Resource__
    <p align="center">
 <img src="step2.png">
 </p>  
 
-3>__click on web app __
+3>__click on web app__
   <p align="center">
 <img src="step33.png">
 </p>  
 4.>__You will direct to this page 
- fill the Requisites __
+ fill the Requisites__
 <p align="center">
 <img src="step4.png">
 </p>  
