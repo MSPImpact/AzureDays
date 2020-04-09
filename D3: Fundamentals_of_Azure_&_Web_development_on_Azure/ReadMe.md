@@ -77,7 +77,7 @@ Steps:
 </p>  
 
 3>__click on web app__
-<br>
+</br>
   <p align="center">
 <img src="step33.png">
 </p>  
@@ -87,7 +87,7 @@ Steps:
 <img src="step4.png">
 </p>  
 5.>__Check all the options and then click on Review and create__
-<br>
+</br>
 <p align="center">
 <img src="step5.png">
 </p>  
