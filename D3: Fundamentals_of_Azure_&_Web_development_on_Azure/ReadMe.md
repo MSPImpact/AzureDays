@@ -57,6 +57,17 @@ __Go to https://azure.microsoft.com/en-in/free/students/__
  <li>Once done, you will be redirected to the Azure portal, your benefits will be activated.</li>
  <li>This is it, for now, further information will be sent through the mail.</li>
  </ol>
+## DEPLYOING A WEB APP IN AZURE::
+
+Steps:
+
+1> Go to the Azure Portal
+ 
+2> Click on Create Resource
+
+3>
+
+
 ________________________________________________________________________________________________________________________________________
 
 __Useful resouces for the session__ 👨‍🏫 :
