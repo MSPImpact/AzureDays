@@ -81,12 +81,18 @@ Steps:
   <p align="center">
 <img src="step33.png">
 </p>  
-4.>You will be directed to this page, fill the Requisites ( __Check out the plan and other requirments according to your app__)
-<br>
+4.>You will be directed to this page, fill the Requisites _Check out the plan and other requirments according to your app_
+<hr>
 <p align="center">
 <img src="step4.png">
 </p>  
-5.> 
+5.> check all the options and then click on Review and create
+<p align="center">
+<img src="step5.png">
+</p>  
+
+6.>
+
 
 
 ________________________________________________________________________________________________________________________________________
