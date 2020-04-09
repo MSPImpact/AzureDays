@@ -96,13 +96,17 @@ Steps:
 <p align="center">
 <img src="step6.png">
 </p>  
-7.>__you will directed to this window__
+7.>you will directed to this window
 </br>
 <p align="center">
 <img src="step7.png">
 </p>  
-
-
+8.>click on the deplyoment centre and then click Git-Hub.
+</br>
+<p align="center">
+<img src="step8.png">
+</p>  
+9.> 
 
 
 ________________________________________________________________________________________________________________________________________
