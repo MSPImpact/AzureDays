@@ -12,27 +12,27 @@ Starting with the Day 1, we have:
 - **Arkodyuti Saha**, Developer Relations (Cloud + AI) Program Manager, Microsoft  
 <br />
 Apr-09 ▶ D2: Intro to Git & Github | (10:00 PM to 12:00 Midnight IST) <br />
-- Taking from scratch, we will discuss, how existence of Github started, how you can start with Git, create projects, showcase your projects, and improving your contributions to the Open Source community! 🙌 
+- Taking from scratch, we will discuss, how existence of Github started, how you can start with Git, create projects, showcase your projects, and improving your contributions to the Open Source community! 🙌   
 - How open source community is scaling up & empowering every Individual. ✌ 
 <br />
 Apr-10 ▶ D3: Fundamentals of Azure & Web development on Azure | (10:00 PM to 12:00 Midnight IST)<br />
-- Are you a Cloud or a Web enthusiast? Want to know the fundamentals of cloud?<br />
-- This is specially for you, covering the fundamentals of cloud, how to get started with Microsoft Azure. We will introduce you to web development, how you can get-started, with the learning resources, and hosting your personal website on Azure! 
-- Isn't it cool?
+- Are you a Cloud or a Web enthusiast? Want to know the fundamentals of cloud?<br />  
+- This is specially for you, covering the fundamentals of cloud, how to get started with Microsoft Azure. We will introduce you to web development, how you can get-started, with the learning resources, and hosting your personal website on Azure!     
+- Isn't it cool?  
 <br />
 Apr-11 ▶ D4: Intro to Data Science & Machine Learning using MS Azure | (10:00 PM to 12:00 Midnight IST)<br />
-- Hello all Machine Learning enthusiasts, many people face the issue like how to get-started, resources, which algorithm to choose, how we can improve the model performance, and others.
-- Along with we will explore how easy it is to program the ML Model on Azure Notebooks after Data cleaning and manipulation. But some people ask that, we have made the model. Now what?
-- Well there comes the beauty of Azure Machine Learning Studio. You will learn to create the full ML Model in just 10 minutes (Reducing the hard-work for coding the whole way long) and how you can use it for any web service. And how it's so easy to use it in your specific website/app.
+- Hello all Machine Learning enthusiasts, many people face the issue like how to get-started, resources, which algorithm to choose, how we can improve the model performance, and others.  
+- Along with we will explore how easy it is to program the ML Model on Azure Notebooks after Data cleaning and manipulation. But some people ask that, we have made the model. Now what?  
+- Well there comes the beauty of Azure Machine Learning Studio. You will learn to create the full ML Model in just 10 minutes (Reducing the hard-work for coding the whole way long) and how you can use it for any web service. And how it's so easy to use it in your specific website/app.  
 <br />
 Apr-12 ▶ D5: ML & Video Analysis using MS Azure (MLH) | (10:00 PM to 12:00 Midnight IST)<br />
-- Starting with Machine Learning overview, you will learn how to use the Video Indexer, how easy it is to grab the insights from a video, and play around using the tools.  
+- Starting with Machine Learning overview, you will learn how to use the Video Indexer, how easy it is to grab the insights from a video, and play around using the tools.    
 - You will also learn to use the Video Indexer API for a simple website based on NodeJS. And how easy the insights can be fetched.
-<br />
+<br />  
 Apr-13 ▶ D6: Exclusive AI Gaming Tournament | (08:00 PM to 12:00 Midnight IST)<br />
-- You will use your basic python knowledge to complete a simple bot, which will compete in a fun tournament. 
-- You will learn about MS Azure, Computer Vision cognitive services, AI Gaming platform. You will use your basic python knowledge to complete a simple bot, which will compete in a fun tournament. 
-You will learn about MS Azure, Computer Vision cognitive services, AI Gaming platform. 
+- You will use your basic python knowledge to complete a simple bot, which will compete in a fun tournament.   
+- You will learn about MS Azure, Computer Vision cognitive services, AI Gaming platform. You will use your basic python knowledge to complete a simple bot, which will compete in a fun tournament.   
+You will learn about MS Azure, Computer Vision cognitive services, AI Gaming platform.   
 
 _AIgaming.com is a platform that allows computer programs - also known as bots, to play each other at challenging games to win bitcoin.
 Isn't it awesome?_ 😍
