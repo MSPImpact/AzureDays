@@ -78,8 +78,7 @@ Steps:
   <p align="center">
 <img src="step33.png">
 </p>  
-4.>__You will direct to this page 
- fill the Requisites__
+4.>__You will direct to this page fill the Requisites__
 <p align="center">
 <img src="step4.png">
 </p>  
