@@ -76,7 +76,7 @@ Steps:
 
 3>click on web app
   <p align="center">
-<img src="step3.png">
+<img src="step33.png">
 </p>  
 4.>You will direct to this page 
  fill the Requisites 
