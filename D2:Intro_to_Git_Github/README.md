@@ -4,6 +4,6 @@ showcase your projects, and improving your contributions to the Open Source comm
   
 - How open source community is scaling up & empowering every Individual. ✌
 
-
+Stay tuned, more amazing stuff coming soon! 😎
 
 Page maintained by Ravi Goswami & Dev
