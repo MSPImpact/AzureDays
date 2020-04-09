@@ -74,7 +74,7 @@ Steps:
 <img src="step2.png">
 </p>  
 
-3>__click on web app__
+3>__click on web app __
   <p align="center">
 <img src="step33.png">
 </p>  
