@@ -70,8 +70,19 @@ Steps:
  
  
 2> Click on Create Resource
+   <p align="center">
+<img src="step2.png">
+</p>  
 
-3>
+3>click on web app
+  <p align="center">
+<img src="step3.png">
+</p>  
+4.>You will direct to this page 
+ fill the Requisites 
+<p align="center">
+<img src="step4.png">
+</p>  
 
 
 ________________________________________________________________________________________________________________________________________
