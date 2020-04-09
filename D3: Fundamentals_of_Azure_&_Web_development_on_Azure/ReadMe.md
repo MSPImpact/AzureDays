@@ -59,7 +59,7 @@ __Go to https://azure.microsoft.com/en-in/free/students/__
 
  </ol>
 
-## DEPLYOING A WEB APP IN AZURE::
+# DEPLYOING A WEB APP IN AZURE:
 
 Steps:
 
