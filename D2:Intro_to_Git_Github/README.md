@@ -18,7 +18,7 @@ showcase your projects, and improving your contributions to the Open Source comm
 
 `git commit` - permanently stores file changes from the staging area in the repository
 
-### git log shows a list of all previous commits
+`git log` - shows a list of all previous commits
 -----------------------------------------------------------------------------------
 *how to backtrack*
 
