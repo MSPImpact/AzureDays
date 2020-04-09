@@ -106,7 +106,18 @@ Steps:
 <p align="center">
 <img src="step8.png">
 </p>  
-9.> 
+9.> add your Git-Hub accound , select the repository and then deploy the code.
+
+10.>check your website 
+<p align="center">
+<img src="tanayt.png">
+</p>  
+</br>
+Thanx guys for giving a read!!
+
+# This Repo is maintained by Tanay Tapanshu and Rohan Raj
+
+
 
 
 ________________________________________________________________________________________________________________________________________
