@@ -68,6 +68,7 @@ Steps:
  <p align="center">
 <img src="step1.png">
 </p>  
+<hr>
  
  
 2>__Click on Create Resource__
@@ -75,52 +76,60 @@ Steps:
    <p align="center">
 <img src="step2.png">
 </p>  
-
+<hr>
 3>__click on web app__
 </br>
   <p align="center">
 <img src="step33.png">
 </p>  
+<hr>
 4.>You will be directed to this page, fill the Requisites Check out the plan and other requirments according to your app and click on create .
 <br>
 <p align="center">
 <img src="step4.png">
 </p>  
+<hr>
 5.>Check all the options and then click on Review and create
 </br>
 <p align="center">
 <img src="step5.png">
 </p>  
+<hr>
 6.> __Check this notification__ 
 </br>
 <p align="center">
 <img src="step6.png">
 </p>  
+<hr>
 7.>you will directed to this window
 </br>
 <p align="center">
 <img src="step7.png">
 </p>  
+<hr>
 8.>click on the deplyoment centre and then click Git-Hub.
 </br>
 <p align="center">
 <img src="step8.png">
 </p>  
+<hr>
 9.> add your Git-Hub accound , select the repository and then deploy the code.
-
+<hr>
 10.>check your website 
 <p align="center">
 <img src="tanayt.png">
 </p>  
 </br>
+<hr>
 Thanx guys for giving a read!!
-
+<hr>
 # This Repo is maintained by Tanay Tapanshu and Rohan Raj
 
 <p align="center">
 <img src="tanay.jpg">
 </p>  
 </br>
+<hr>
 
 <p align="center">
 <img src="WhatsApp Image 2020-04-10 at 02.35.10.jpeg">
