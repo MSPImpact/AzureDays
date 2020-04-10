@@ -118,12 +118,12 @@ Thanx guys for giving a read!!
 # This Repo is maintained by Tanay Tapanshu and Rohan Raj
 
 <p align="center">
-<img src="tanaytapanshu.png">
+<img src="tanay.jpg">
 </p>  
 </br>
 
 <p align="center">
-<img src="rohanraj.png">
+<img src="WhatsApp Image 2020-04-10 at 02.35.10.jpeg">
 </p>  
 </br>
 
