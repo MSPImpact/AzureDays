@@ -124,7 +124,7 @@ Steps:
 Thanx guys for giving a read!!
 <hr>
 # This Repo is maintained by Tanay Tapanshu and Rohan Raj
-
+</br>
 <p align="center">
 <img src="tanay.jpg">
 </p>  
