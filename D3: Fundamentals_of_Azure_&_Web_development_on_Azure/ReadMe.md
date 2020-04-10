@@ -117,6 +117,15 @@ Thanx guys for giving a read!!
 
 # This Repo is maintained by Tanay Tapanshu and Rohan Raj
 
+<p align="center">
+<img src="tanaytapanshu.png">
+</p>  
+</br>
+
+<p align="center">
+<img src="rohanraj.png">
+</p>  
+</br>
 
 
 
