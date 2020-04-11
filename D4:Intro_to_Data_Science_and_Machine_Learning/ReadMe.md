@@ -45,17 +45,22 @@ And if someone look for the process behind Machine Learning, this is the process
 <img src="https://github.com/MSPImpact/AzureDays/blob/master/D4:Intro_to_Data_Science_and_Machine_Learning/Pictures_for_readme/Picture4.png"> 
 From "Introduction to Microsoft Azure" by David Chappell
 </p>
+<br /><br />  
+
+## Now let's move the Programming part, and how one can code a simple Machine Learning model using Python & Sklearn. 
 <br /><br />
-### Now let's move the Programming part, and how one can code a simple Machine Learning model using Python & Sklearn. 
-<br /><br />
+For Azure Notebook for the simple ML model:
 - [Azure Notebook for predicting flight delays](https://github.com/MSPImpact/AzureDays/blob/ef2bd150c1c02933905500c7fd79cb4e25a56c28/D4:Intro_to_Data_Science_and_Machine_Learning/Azure_notebook/Predict_Flight_Delays_by_creating_a_ML_model_in_Python.ipynb)
 <br /><br />
 You can open in the new tab for better visuals. And we do have some exercise & home-work for you all! <br />  <br />
 And once you are done with the coding part. I will move further to show how we can use the power of **Azure Machine Learning Studio** to Perform Data Science, create a simple ML model, and even use the trained ML Model to create a web service. 🙌
 <br />  <br />
-### For Azure ML Studio:
-_Check this folder for further info here_: [Azure Machine Learning process and ML Challenge](https://github.com/himanshubeniwal/computerscience/blob/master/Events%20and%20Hacks/Azure%20Machine%20Learning%20Challenge/Machine%20Learning%20Challenge.md)
+## For Azure ML Studio
+_Check this repo for further info here_: 
+- [Azure Machine Learning process and ML Challenge](https://github.com/himanshubeniwal/computerscience/blob/master/Events%20and%20Hacks/Azure%20Machine%20Learning%20Challenge/Machine%20Learning%20Challenge.md)
 <br /><br />
+-------------------------------------------------------
+
 You can also check this cheatsheet from this link: [For further learning about other ML Algorithms which can explore based on the problems](http://aka.ms/MLCheatSheet)<br />
   
 To explore more about Data Science, Machine Learning, and AI; Do check these amazing resources: 
