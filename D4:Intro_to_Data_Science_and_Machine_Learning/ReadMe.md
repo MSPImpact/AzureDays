@@ -47,22 +47,22 @@ From "Introduction to Microsoft Azure" by David Chappell
 </p>
 <br /><br />  
 
-## Now let's move the Programming part, and how one can code a simple Machine Learning model using Python & Sklearn. 
+## Now let's move the Programming part, and how one can code a simple Machine Learning model using Python & Sklearn 🤟
 <br /><br />
-For Azure Notebook for the simple ML model:
+_For Azure Notebook for the simple ML model_: ✨
 - [Azure Notebook for predicting flight delays](https://github.com/MSPImpact/AzureDays/blob/ef2bd150c1c02933905500c7fd79cb4e25a56c28/D4:Intro_to_Data_Science_and_Machine_Learning/Azure_notebook/Predict_Flight_Delays_by_creating_a_ML_model_in_Python.ipynb)
 <br /><br />
-You can open in the new tab for better visuals. And we do have some exercise & home-work for you all! <br />  <br />
+You can open in the new tab for better visuals. And we do have some exercise & home-work for you all! 😀 <br />  <br />
 And once you are done with the coding part. I will move further to show how we can use the power of **Azure Machine Learning Studio** to Perform Data Science, create a simple ML model, and even use the trained ML Model to create a web service. 🙌
 <br />  <br />
-## For Azure ML Studio
-_Check this repo for further info here_: 
+-------------------------------------------------------
+## For Azure ML Studio 🔥
+_Check this repo for further info here_: 🎉
 - [Azure Machine Learning process and ML Challenge](https://github.com/himanshubeniwal/computerscience/blob/master/Events%20and%20Hacks/Azure%20Machine%20Learning%20Challenge/Machine%20Learning%20Challenge.md)
 <br /><br />
 -------------------------------------------------------
-
-You can also check this cheatsheet from this link: [For further learning about other ML Algorithms which can explore based on the problems](http://aka.ms/MLCheatSheet)<br />
-  
+You can also check this cheatsheet from this link: [For further learning about other ML Algorithms which can explore based on the problems](http://aka.ms/MLCheatSheet)<br /> ✔
+-------------------------------------------------------
 To explore more about Data Science, Machine Learning, and AI; Do check these amazing resources: 
 - [Visit Microsoft Learn](https://docs.microsoft.com/en-us/learn/).
 - [Basics of Data Science](https://docs.microsoft.com/en-us/learn/modules/intro-to-data-science-in-azure/).
@@ -70,6 +70,6 @@ To explore more about Data Science, Machine Learning, and AI; Do check these ama
 - [Publishing ML Experiment with Azure ML Studio](https://docs.microsoft.com/en-us/learn/paths/publish-experiment-with-ml-studio/).
 - [Predicting flight delays with Python](https://docs.microsoft.com/en-gb/learn/modules/predict-flight-delays-with-python/).
 <br />
-_Managed by Himanshu & Ambika.
-Wait for some more resources. We will be back with more cool things!_ 😍
+_Managed by Himanshu & Ambika_. <br />
+_Wait for some more resources. We will be back with more cool things!_ 😍
 Keep learning & keep sharing! :)
