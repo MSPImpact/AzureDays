@@ -53,7 +53,9 @@ From "Introduction to Microsoft Azure" by David Chappell
 You can open in the new tab for better visuals. And we do have some exercise & home-work for you all! <br />  <br />
 And once you are done with the coding part. I will move further to show how we can use the power of **Azure Machine Learning Studio** to Perform Data Science, create a simple ML model, and even use the trained ML Model to create a web service. 🙌
 <br />  <br />
-_Check this folder for further info here_: _Link to updated soon._<br /><br />
+### For Azure ML Studio:
+_Check this folder for further info here_: [Azure Machine Learning process and ML Challenge](https://github.com/himanshubeniwal/computerscience/blob/master/Events%20and%20Hacks/Azure%20Machine%20Learning%20Challenge/Machine%20Learning%20Challenge.md)
+<br /><br />
 You can also check this cheatsheet from this link: [For further learning about other ML Algorithms which can explore based on the problems](http://aka.ms/MLCheatSheet)<br />
   
 To explore more about Data Science, Machine Learning, and AI; Do check these amazing resources: 
