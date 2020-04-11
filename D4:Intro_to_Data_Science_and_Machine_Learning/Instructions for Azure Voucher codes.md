@@ -1,4 +1,4 @@
-Steps to redeem the Azure4Students voucher: 
+### Steps to redeem the Azure4Students voucher: 
 
 1. Go to https://aka.ms/Azure4Students 
 
