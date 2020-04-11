@@ -58,7 +58,7 @@ And once you are done with the coding part. I will move further to show how we c
 -------------------------------------------------------
 ## For Azure ML Studio 🔥
 _Check this repo for further info here_: 🎉
-- [Azure Machine Learning process and ML Challenge](https://github.com/himanshubeniwal/computerscience/blob/master/Events%20and%20Hacks/Azure%20Machine%20Learning%20Challenge/Machine%20Learning%20Challenge.md)
+- [Azure Machine Learning Studio process and ML Challenge](https://github.com/himanshubeniwal/computerscience/blob/master/Events%20and%20Hacks/Azure%20Machine%20Learning%20Challenge/Machine%20Learning%20Challenge.md)
 <br /><br />
 -------------------------------------------------------
 You can also check this cheatsheet from this link: [For further learning about other ML Algorithms which can explore based on the problems](http://aka.ms/MLCheatSheet)<br /> ✔
