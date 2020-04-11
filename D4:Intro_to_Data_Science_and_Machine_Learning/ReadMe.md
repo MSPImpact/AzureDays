@@ -69,6 +69,7 @@ To explore more about Data Science, Machine Learning, and AI; Do check these ama
 - [Learn about ML with Python and Azure Notebooks](https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/).
 - [Publishing ML Experiment with Azure ML Studio](https://docs.microsoft.com/en-us/learn/paths/publish-experiment-with-ml-studio/).
 - [Predicting flight delays with Python](https://docs.microsoft.com/en-gb/learn/modules/predict-flight-delays-with-python/).
+- [Read Himanshu's article on Medium on Handwritten Digit Recognition using Machine Learning](https://medium.com/@himanshubeniwal/handwritten-digit-recognition-using-machine-learning-ad30562a9b64)
 <br />
 -------------------------------------------------------
 <br /><br /><br />
