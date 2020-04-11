@@ -70,6 +70,7 @@ To explore more about Data Science, Machine Learning, and AI; Do check these ama
 - [Publishing ML Experiment with Azure ML Studio](https://docs.microsoft.com/en-us/learn/paths/publish-experiment-with-ml-studio/).
 - [Predicting flight delays with Python](https://docs.microsoft.com/en-gb/learn/modules/predict-flight-delays-with-python/).
 <br />
-_Managed by Himanshu & Ambika_. <br />
+-------------------------------------------------------
+__Managed by Himanshu & Ambika__. <br />
 _Wait for some more resources. We will be back with more cool things!_ 😍
 Keep learning & keep sharing! :)
