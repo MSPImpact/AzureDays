@@ -71,6 +71,7 @@ To explore more about Data Science, Machine Learning, and AI; Do check these ama
 - [Predicting flight delays with Python](https://docs.microsoft.com/en-gb/learn/modules/predict-flight-delays-with-python/).
 <br />
 -------------------------------------------------------
-__Managed by Himanshu & Ambika__. <br />
+<br /><br /><br />
+_Managed by Himanshu & Ambika_. <br />
 _Wait for some more resources. We will be back with more cool things!_ 😍
 Keep learning & keep sharing! :)
