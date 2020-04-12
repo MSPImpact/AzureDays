@@ -9,4 +9,5 @@
 
 #### 2. Install Visual Studio Code and Node.js by following the instructions [here](https://github.com/MSPImpact/AzureDays/blob/master/D5:Machine_Learning_and_Video_Indexer_using_Microsoft_Azure/Installations_instructions/Installations.pdf)
 <br>
+
 ![alt text](https://github.com/MSPImpact/AzureDays/blob/master/D5:Machine_Learning_and_Video_Indexer_using_Microsoft_Azure/Machine%20Learning%20and%20Video%20Analysis.jpg "Wall photo")
